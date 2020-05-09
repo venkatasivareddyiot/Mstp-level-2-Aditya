@@ -16,4 +16,4 @@ down load my fm [link](https://global.gotomeeting.com/join/160543317)
 s=int(input("enter a no"))
 print(s)
 ```
-<img src
+<img src="95627674_135850061405881_1181836023307436032_o.jpg" alt="hmm edo practice"/>
