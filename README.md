@@ -12,7 +12,7 @@ Aditya college of engineering and technology daily class work for mstp level-2
 
 down load my fm [link](https://global.gotomeeting.com/join/160543317)
   
-'''python
+```python
 s=int(input("enter a no"))
 print(s)
-'''
+```
