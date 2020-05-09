@@ -19,7 +19,8 @@ print(s)
 <img src="95627674_135850061405881_1181836023307436032_o.jpg" alt="hmm edo practice"/>
 
 
-## tables
+## Tables
  
- Name | Email
+**Name** | **Email**
+
  jack | jack the gaint@gmail.com
